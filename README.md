@@ -8,6 +8,6 @@ This repo documents lecture notes from the following modules:
 Useful files are also contained within this repo
 
 ## Who made me?
-This repo was put together my Marley Bradbury:
+This repo was put together by Marley Bradbury:
 - MOB: +44 (0)74 3260 9879
 - UCL Email: marley.bradbury.19@ucl.ac.uk
