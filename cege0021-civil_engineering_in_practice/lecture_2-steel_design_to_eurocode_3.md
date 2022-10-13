@@ -110,11 +110,11 @@ Several Load cases may need to be considered to obtain a 'worst case' envelop of
 ## Design value of actions (EN 1990)
 The design value of action affects, E<sub>d</sub> assuming the structure is subjected to both a permanent action and a variable action can be assed using the following expression:
 
-E<sub>d</sub> = $\sum_{j>=1}^{}$($\gamma$<sub>G.j</sub>G<sub>k.j</sub> "+" $\gamma$<sub>Q.1</sub>G<sub>k.1</sub>)
+E<sub>d</sub> = $\sum_{j>=1}^{}$(γ<sub>G.j</sub>G<sub>k.j</sub> "+" γ<sub>Q.1</sub>G<sub>k.1</sub>)
 
 The design value of an action effect due to a permanent action and two (or more) variable actions e.g. imposed plus wind load, is obtained  using the following expression:
 
-E<sub>d</sub> = $\sum_{j>=1}^{}$($\gamma$<sub>G.j</sub>G<sub>k.j</sub> "+" $\gamma$<sub>Q.1</sub>G<sub>k.1</sub>) "+" $\sum_{i>=1}^{}$($\gamma$<sub>Q.i</sub>$\phi$<sub>0 iQ<sub>k1</sub></sub>)
+E<sub>d</sub> = $\sum_{j>=1}^{}$(γ<sub>G.j</sub>G<sub>k.j</sub> "+" γ<sub>Q.1</sub>G<sub>k.1</sub>) "+" $\sum_{i>=1}^{}$(γ<sub>Q.i</sub>$\phi$<sub>0 iQ<sub>k1</sub></sub>)
 
 ## Partial load factors
 Partial load factors for common load combinations (based on EN 1990)
