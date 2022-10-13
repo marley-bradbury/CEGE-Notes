@@ -114,7 +114,7 @@ E<sub>d</sub> = $\sum_{j>=1}^{}$(γ<sub>G.j</sub>G<sub>k.j</sub> "+" γ<sub>Q.1<
 
 The design value of an action effect due to a permanent action and two (or more) variable actions e.g. imposed plus wind load, is obtained  using the following expression:
 
-E<sub>d</sub> = $\sum_{j>=1}^{}$(γ<sub>G.j</sub>G<sub>k.j</sub> "+" γ<sub>Q.1</sub>G<sub>k.1</sub>) "+" $\sum_{i>=1}^{}$(γ<sub>Q.i</sub>$\phi$<sub>0 iQ<sub>k1</sub></sub>)
+E<sub>d</sub> = $\sum_{j>=1}^{}$(γ<sub>G.j</sub>G<sub>k.j</sub> "+" γ<sub>Q.1</sub>G<sub>k.1</sub>) "+" $\sum_{i>=1}^{}$(γ<sub>Q.i</sub>$\phi$<sub>0 iQ<sub>k.1</sub></sub>)
 
 ## Partial load factors
 Partial load factors for common load combinations (based on EN 1990)
