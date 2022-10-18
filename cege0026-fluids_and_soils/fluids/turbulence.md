@@ -12,13 +12,13 @@ $t^* = t\omega = [dimensionless]$,
 $y^* = \frac{y}{h} = [dimensionless]$
 
 $\frac{\delta u^*}{\delta u} = \frac{1}{h\omega}$
-=> $\delta u = h\omega\delta u^*$
+$\Rightarrow\delta u = h\omega\delta u^*$
 
 $\frac{\delta y^*}{\delta y} = \frac{1}{h}$
-=> $\delta y = h\delta y^*$
+$\Rightarrow\delta y = h\delta y^*$
 
 $\frac{\delta t^*}{\delta t} = \omega$
-=> $\delta t = \frac{\delta t^*}{\omega}$
+$\Rightarrow\delta t = \frac{\delta t^*}{\omega}$
 
 $\rho\omega^2 h\frac{\delta u^*}{\delta t^*} = Xcost^* + \frac{\mu\omega}{\rho h^2}\frac{\delta^2u}{\delta y^2}$
 ### Reynolds Stress
