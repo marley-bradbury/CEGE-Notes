@@ -9,7 +9,7 @@
 
 ## Example images (image pending)
 
-## hat are projects - key characteristics
+## What are projects - key characteristics
 - Purpose - defined product or result
 - Transient - usually have start and finish dates
 - Unfamiliar - undertaken in an environment of risk and uncertainty
