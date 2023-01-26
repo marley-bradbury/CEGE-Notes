@@ -1,4 +1,4 @@
-# Proof we orbit the earth 2 million kilometers from it's centre
+# Proof we orbit the earth 2 million kilometers from it's center
 ## Variables and constants
 ### Variables
 $a$ = acceleration
