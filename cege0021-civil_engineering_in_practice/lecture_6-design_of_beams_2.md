@@ -69,4 +69,4 @@ $M_{cr} = C_1\frac{\pi^2EI_z}{L^2_{cr}}(\frac{I_w}{I_z}+\frac{L^2_{cr}GI_t}{\pi^
 
 Values of $C_1$ determined from the table:
 
-![image]()
+![image](files://C:/Users/MarleyBradbury/lecture_images/cege0021/lecture_6/C1_table.png)
