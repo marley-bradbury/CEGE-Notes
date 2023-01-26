@@ -49,6 +49,6 @@ $v^2$ = $\frac{4\pi^2r_E^2}{t_{day}^2}$
 
 $v^2$ = $\frac{Gm_E}{r}$
 
-$\therefore\frac{4\pi^2r_E^2}{t_{day}^2}$ = $\frac{Gm_E}{r}\Rightarrow$ r = $\frac{Gm_Et_{day}^2}{4\pi^2r_E^2}$ = $1.85*10^9meters\approx2*10^6kilometers$
+$\therefore\frac{4\pi^2r_E^2}{t_{day}^2}$ = $\frac{Gm_E}{r}\Rightarrow$ r = $\frac{Gm_Et_{day}^2}{4\pi^2r_E^2}$ = $1.85$ X $10^9meters\approx2$ X $10^6kilometers$
 
 $\therefore$ humans on the surface of the earth are actually orbiting the earth 2 million kilometers away
